@@ -1,3 +1,4 @@
+<!---
 - 👋 Hi, I’m @Ghost04718
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,6 +6,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--->
 
 <!---
 Ghost04718/Ghost04718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- github - stats -->
-![Ghost04718's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost04718&count_private=true&show_icons=true)
+![Ghost04718's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost04718&count_private=true&show_icons=false)
