@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <span>  </span>
-<img src="https://github-readme-stats.vercel.app/api?username=Ghost04718" /><span>  </span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost04718&layout=compact&langs_count=3" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Ghost04718" /><span>  </span><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost04718&layout=compact&langs_count=3" />
 <span>  </span>
 </div>
