@@ -13,8 +13,8 @@ Ghost04718/Ghost04718 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m Adam Chen. 
-👀 If you want to learn more about me, see [my site](https://ghost04718.github.io/home/).
+- 👋 Hi, I’m Adam Chen. 
+- 👀 If you want to learn more about me, see [my site](https://ghost04718.github.io/home/).
 
 <div align="center">
 <span>  </span>
