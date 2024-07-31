@@ -13,6 +13,8 @@ Ghost04718/Ghost04718 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+👋 Hi, I’m Adam Chen. You can learn more about me on [my site](https://ghost04718.github.io/home/).
+
 <div align="center">
 <span>  </span>
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Ghost04718" /><span>  </span><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost04718&layout=compact&langs_count=6" />
