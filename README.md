@@ -1,23 +1,18 @@
-<!---
-- 👋 Hi, I’m @Ghost04718
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+# Hi there, I'm Ziqi Chen 👋
 
-<!---
-Ghost04718/Ghost04718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🔭 I'm currently working on AI Agent
+- 🌱 I'm learning MCP and A2A
+- ⚡ Fun fact: I am a fan of Arknights and Rusty Lake
 
-- 👋 Hi, I’m Adam Chen. 
-- 👀 If you want to learn more about me, see [my site](https://ghost04718.github.io).
 
-<div align="center">
-<span>  </span>
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Ghost04718" />
-<span>  </span>
-</div>
+## GitHub Stats
+![Ghost04718's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost04718&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost04718&layout=compact&theme=radical)](https://github.com/Ghost04718)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ghost04718&color=blueviolet" alt="Profile views">
+</p>
