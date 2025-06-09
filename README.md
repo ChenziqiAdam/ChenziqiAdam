@@ -4,6 +4,7 @@
 - 🔭 I'm currently working on AI Agent
 - 🌱 I'm learning MCP and A2A
 - ⚡ Fun fact: I am a fan of Arknights and Rusty Lake
+- 📧 [Contact Me](mailto:adamchen04718@gmail.com)
 
 
 ## GitHub Stats
