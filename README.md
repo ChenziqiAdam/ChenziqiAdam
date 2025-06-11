@@ -1,4 +1,4 @@
-# Hi there, I'm Ziqi Chen 👋
+# Hi there, I'm Ziqi CHEN 陈子琦 👋
 
 ## About Me
 - 🔭 I'm currently working on AI Agent
