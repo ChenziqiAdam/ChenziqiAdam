@@ -14,27 +14,9 @@ Feel free to connect or check out my projects!
 
 ---
 
-## 🏆 Badges
-
-### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true)
 
-### Followers
-![GitHub followers](https://img.shields.io/github/followers/ChenziqiAdam?label=Followers&style=social)
-
-### Stars
-![GitHub stars](https://img.shields.io/github/stars/ChenziqiAdam?label=Stars)
-
-### Top Language
 ![Top Language](https://img.shields.io/github/languages/top/ChenziqiAdam/ChenziqiAdam)
-
-### Issues
-![GitHub issues](https://img.shields.io/github/issues/ChenziqiAdam/ChenziqiAdam)
-
-### Pull Requests
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ChenziqiAdam/ChenziqiAdam)
-
-### Visitor Badge (via [profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter))
 ![Visitor Badge](https://komarev.com/ghpvc/?username=ChenziqiAdam)
 
 ---
