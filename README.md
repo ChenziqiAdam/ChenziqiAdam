@@ -1,12 +1,20 @@
-# Hi there, I'm Ziqi CHEN 陈子琦 👋
+<h1 align="center">Hi there, I'm Ziqi CHEN 陈子琦 👋</h1>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChenziqiAdam" alt="Profile Views" />
+  <img src="https://img.shields.io/github/languages/top/ChenziqiAdam/ChenziqiAdam" alt="Top Language" />
+</div>
 
 ---
 
 ## 🌟 About Me
 
 Hi, I'm Adam!  
-- 💻 AI enthusiast, book lover, and world explorer  
-- 🧠 Interested in LLMs
+- 💻 AI Enthusiast, Book Lover, and World Explorer  
+- 🧠 Interested in Large Language Models (LLMs)
 - ⚡ Fun fact: I am a fan of Arknights and Rusty Lake
 - 📧 [Contact Me](mailto:adamchen04718@gmail.com)
 
@@ -14,20 +22,13 @@ Feel free to connect or check out my projects!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true)
-
-![Top Language](https://img.shields.io/github/languages/top/ChenziqiAdam/ChenziqiAdam)
-![Visitor Badge](https://komarev.com/ghpvc/?username=ChenziqiAdam)
-
----
-
 ## 🌱 Currently Working On
 
-- Improving LLM's writing techniques
-- Experimenting with AI Memory
-- Developing helpful Obsidian plugins
-- Sharing knowledge and collaborating with the open-source community
+- 📝 Advancing LLM's writing capabilities
+- 🧬 Pioneering AI Memory systems
+- 🔌 Developing Obsidian plugins
+- 🌐 Contributing to open-source AI communities
 
 ---
 
-**Thanks for visiting — Let’s build something amazing together!**
+<p align="center">**✨ Let's build something amazing together! ✨**</p>
