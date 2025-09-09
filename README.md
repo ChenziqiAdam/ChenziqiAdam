@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ziqi CHEN 陈子琦 👋</h1>
+<h1 align="center">Hi there, I'm Ziqi CHEN 👋</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true" alt="GitHub Stats" />
