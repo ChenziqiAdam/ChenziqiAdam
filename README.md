@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ziqi CHEN 👋</h1>
+<h1 align="center">Hi there, I'm Adam 👋</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true" alt="GitHub Stats" />
@@ -18,14 +18,12 @@ Hi, I'm Adam!
 - ⚡ Fun fact: I am a fan of Arknights and Rusty Lake
 - 📧 [Contact Me](mailto:adamchen04718@gmail.com)
 
-Feel free to connect or check out my projects!
-
 ---
 
 ## 🌱 Currently Working On
 
-- 📝 Advancing LLM's writing capabilities
-- 🧬 Pioneering AI Memory systems
+- 📝 Advancing Multi-Agent System
+- 🧬 Pioneering AI Agent Memory
 - 🔌 Developing Obsidian plugins
 - 🌐 Contributing to open-source AI communities
 
