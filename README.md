@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Adam 👋</h1>
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenziqiAdam)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true" alt="Adam's GitHub Stats" />
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChenziqiAdam" alt="Profile Views" />
 </div>
