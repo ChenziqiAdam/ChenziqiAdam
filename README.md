@@ -1,11 +1,8 @@
 <h1 align="center">Hi there, I'm Adam 👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true" alt="GitHub Stats" />
-</div>
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenziqiAdam)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChenziqiAdam" alt="Profile Views" />
-  <img src="https://img.shields.io/github/languages/top/ChenziqiAdam/ChenziqiAdam" alt="Top Language" />
 </div>
 
 ---
