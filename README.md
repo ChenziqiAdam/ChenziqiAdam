@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true" alt="Adam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenziqiAdam" alt="Adam's Top Langs" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChenziqiAdam" alt="Profile Views" />
