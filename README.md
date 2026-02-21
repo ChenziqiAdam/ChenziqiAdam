@@ -12,20 +12,14 @@
 
 ## 🌟 About Me
 
-Hi, I'm Adam!  
-- 💻 AI Enthusiast, Book Lover, and World Explorer  
-- 🧠 Interested in Large Language Models (LLMs)
-- ⚡ Fun fact: I am a fan of Arknights and Rusty Lake
-- 📧 [Contact Me](mailto:adamchen04718@gmail.com)
+Hi, I'm Adam!
 
----
+## Currently Working On
 
-## 🌱 Currently Working On
-
-- 📝 Advancing Multi-Agent System
-- 🧬 Pioneering AI Agent Memory
-- 🔌 Developing Obsidian plugins
-- 🌐 Contributing to open-source AI communities
+- Advancing Multi-Agent System and AI Agent Memory
+- Developing Obsidian plugins
+- Contributing to open-source AI communities
+- Exploring Social Engineering and Software Engineering
 
 ---
 
