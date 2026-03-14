@@ -12,11 +12,11 @@
 
 ## 🌟 About Me
 
-Hi, I'm Adam!
+Hi, I'm Adam! My research interest is centered on self-aware and self-evolving AI. I am actively seeking PhD opportunities starting from 2027 Fall.
 
 ## Currently Working On
 
-- Advancing Multi-Agent System and AI Agent Memory
+- Advancing Multi-Agent System, AI Memory and self-evolving AI
 - Developing Obsidian plugins
 - Contributing to open-source AI communities
 - Exploring Social Engineering and Software Engineering
