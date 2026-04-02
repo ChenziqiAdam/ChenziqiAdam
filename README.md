@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-Hi, I'm Adam! My research interest is centered on self-aware and self-evolving AI. I am actively seeking PhD opportunities starting from 2027 Fall.
+Hi, I'm Adam! My research interest is centered on efficient and evolving AI systems. I am actively seeking PhD opportunities starting from 2027 Fall.
 
 ## Currently Working On
 
