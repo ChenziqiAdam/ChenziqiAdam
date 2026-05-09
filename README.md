@@ -23,4 +23,4 @@ Hi, I'm Adam! My research interest is centered on efficient and evolving AI syst
 
 ---
 
-<p align="center">**Feel free to reach out to me!**</p>
+<p align="center">Feel free to reach out!</p>
